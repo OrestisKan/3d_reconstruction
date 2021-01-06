@@ -1,0 +1,6 @@
+sensor_msgs/CameraInfo CameraInfo1
+sensor_msgs/CameraInfo CameraInfo2
+float64[] point1
+float64[] point2
+---
+float64[] point3d

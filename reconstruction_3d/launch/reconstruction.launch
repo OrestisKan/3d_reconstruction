@@ -1,0 +1,5 @@
+<launch>
+<!-- Start the reconstruction server node -->
+<node name='reconstruction_server' pkg='reconstruction_3d' type='reconstruction_service.py'>
+
+</launch>

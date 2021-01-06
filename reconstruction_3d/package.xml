@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>reconstruction_3d</name>
+  <version>1.0.0</version>
+  <description>Package for reconstruction of a #d point out of 2d points</description>
+
+  <author email="o.kanaris@student.tudelft.nl">Orestis Kanaris</author>
+  <maintainer email="o.kanaris@student.tudelft.nl">Orestis Kanaris</maintainer>
+  <license>Apache-License-2.0</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+	<build_depend>message_generation</build_depend>
+	<exec_depend>message_runtime</exec_depend>
+  <depend>std_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>rospy</depend>
+</package>
